@@ -1,0 +1,34 @@
+{
+  "amaliya": [
+    {
+      "id": 1,
+      "img": "./assets/image/services1.svg",
+      "number": 2003,
+      "name": "Amaliya Miriyeva",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support."
+    },
+    {
+      "id": 2,
+      "img": "./assets/image/services2.svg",
+      "number": 2005,
+      "name": "Khatica Rzayeva",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support."
+    },
+    {
+      "id": 3,
+      "img": "./assets/image/services1.svg",
+      "number": 2004,
+      "name": "Fatima Rustamova",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support."
+    }
+  ],
+  "fav": [
+    {
+      "id": 3,
+      "img": "./assets/image/services1.svg",
+      "number": 2004,
+      "name": "Fatima Rustamova",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support."
+    }
+  ]
+}
